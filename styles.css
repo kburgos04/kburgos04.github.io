@@ -3,20 +3,20 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  background-color: #c90076;
+  background-color: #ead1dc;
 }
 header {
-  background: #c90076;
-  color: #c90076;
+  background: #ead1dc;
+  color: #333;
   padding: 1em 0;
   text-align: center;
 }
 a {
-  color: #c90076;
+  color: #fff;
   text-decoration: none;
 }
 a:hover {
-  color: #c90076;
+  color: #333;
 }
 nav ul {
   list-style: none;
@@ -30,14 +30,14 @@ section {
   padding: 20px;
   margin: 20px auto;
   max-width: 800px;
-  background: #c90076;
+  background: ##ead1dc;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 footer {
   text-align: center;
   padding: 10px 0;
   background: #c90076;
-  color: #c90076;
+  color: #333;
   position: fixed;
   bottom: 0;
   width: 100%;
