@@ -6,7 +6,7 @@ body {
   background-color: #ead1dc;
 }
 header {
-  background: #333;
+  background: #c27ba0;
   color: #fff;
   padding: 1em 0;
   text-align: center;
@@ -16,7 +16,7 @@ a {
   text-decoration: none;
 }
 a:hover {
-  color: #007BFF;
+  color: #ead1dc;
 }
 nav ul {
   list-style: none;
@@ -36,7 +36,7 @@ section {
 footer {
   text-align: center;
   padding: 10px 0;
-  background: #333;
+  background: #c27ba0;
   color: #fff;
   position: fixed;
   bottom: 0;
