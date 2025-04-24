@@ -7,12 +7,12 @@ body {
 }
 header {
   background: #c90076;
-  color: #fff;
+  color: #c90076;
   padding: 1em 0;
   text-align: center;
 }
 a {
-  color: #333;
+  color: #c90076;
   text-decoration: none;
 }
 a:hover {
@@ -30,14 +30,14 @@ section {
   padding: 20px;
   margin: 20px auto;
   max-width: 800px;
-  background: #fff;
+  background: #c90076;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 footer {
   text-align: center;
   padding: 10px 0;
   background: #c90076;
-  color: #fff;
+  color: #c90076;
   position: fixed;
   bottom: 0;
   width: 100%;
