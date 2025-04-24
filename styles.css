@@ -3,10 +3,10 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  background-color: #ead1dc;
+  background-color: #c90076;
 }
 header {
-  background: #c27ba0;
+  background: #c90076;
   color: #fff;
   padding: 1em 0;
   text-align: center;
@@ -16,7 +16,7 @@ a {
   text-decoration: none;
 }
 a:hover {
-  color: #ead1dc;
+  color: #c90076;
 }
 nav ul {
   list-style: none;
@@ -36,7 +36,7 @@ section {
 footer {
   text-align: center;
   padding: 10px 0;
-  background: #c27ba0;
+  background: #c90076;
   color: #fff;
   position: fixed;
   bottom: 0;
